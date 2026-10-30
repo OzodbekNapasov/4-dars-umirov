@@ -1,0 +1,21 @@
+Standart va xizmatchi dasturlar. Tibbiy ma'lumotlarni saqlash vositalari
+va antivirus dasturlari yordamida himoyalash
+Fan: Tibbiyotda axborot texnologiyalari
+O'qituvchi: Zafar Umirov
+
+
+DARSNI OCHISH (internet va server kerak emas)
+  start.bat faylini ikki marta bosing
+  yoki offline\index.html faylini brauzerda oching.
+  Boshqa kompyuterga o'tkazish uchun faqat offline\index.html yetarli.
+
+
+MATNNI O'ZGARTIRISH (Node.js kerak)
+  Matn va mashqlar:  lib\content.ts
+  Bo'limlar matni:   app\page.tsx
+  Ko'rish:           npm run dev
+  Yangi nusxa olish: npm run build:offline
+
+
+Eslatma: shu papkadagi dars.html va README.md boshqa darsga
+(Klaviatura va sichqoncha) tegishli, bu loyihaga aloqasi yo'q.
